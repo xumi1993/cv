@@ -1,0 +1,9 @@
+*.cut
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.xml
+*.synctex.gz
