@@ -7,3 +7,4 @@
 *.out
 *.xml
 *.synctex.gz
+.DS_Store
